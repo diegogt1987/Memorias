@@ -4,21 +4,22 @@
 Seguindo tutorial para aprender mais sobre esse FW MERN
 
 ### Playlist JavaScript Mastery
-https://www.youtube.com/watch?v=ngc9gnGgUdA&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1
+[Playlist dos videos](https://www.youtube.com/watch?v=ngc9gnGgUdA&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1)
+
 
 ### Para instalar dependencias rodar
-'npm install' nas pastas
-'./'
-'./client'
-'./server'
+`npm install` nas pastas
+`./`
+`./client`
+`./server`
 
 ### Cliente
 React
 NodeJs
 
 ### Para iniciar servico
-'cd client'
-'npm start'
+`cd client`
+`npm start`
 
 ### Server
 Express
@@ -26,5 +27,5 @@ MongoDB
 NodeJs
 
 ### Para iniciar servico
-'cd server'
-'npm start'
+`cd server`
+`npm start`
