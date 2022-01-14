@@ -1,27 +1,30 @@
 # Memorias
-Aprendendo MERN
+### Aprendendo MERN
 
-seguindo tutorial para aprender mais sobre esse FW MERN
+Seguindo tutorial para aprender mais sobre esse FW MERN
 
-PT1
-https://www.youtube.com/watch?v=ngc9gnGgUdA
+### Playlist JavaScript Mastery
+https://www.youtube.com/watch?v=ngc9gnGgUdA&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1
 
-PT2
-https://www.youtube.com/watch?v=aibtHnbeuio
+### Para instalar dependencias rodar
+'npm install' nas pastas
+'./'
+'./client'
+'./server'
 
-Cliente
+### Cliente
 React
 NodeJs
 
-Para iniciar servico
-cd client
-npm start
+### Para iniciar servico
+'cd client'
+'npm start'
 
-Server
+### Server
 Express
 MongoDB
 NodeJs
 
-Para iniciar servico
-cd server
-npm start
+### Para iniciar servico
+'cd server'
+'npm start'
